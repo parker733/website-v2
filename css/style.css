@@ -60,3 +60,8 @@ ul{
 	margin-left: 0;
 	padding-left: 0.5em;
 }
+.thumbnail{
+	margin-bottom: 0;
+	border-radius: 0;
+	border: 0;
+}
