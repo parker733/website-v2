@@ -1,0 +1,62 @@
+.container{
+	margin-top:5em;
+	margin-bottom:7em;
+}
+a{
+	color: black;
+	text-decoration: none;
+}
+a:hover{
+	color:black;
+	text-decoration: none;
+}
+a:focus{
+	color: black;
+	text-decoration: none;
+}
+ul{
+	list-style-type: none;
+
+}
+.logo{
+	padding-bottom: 2em;
+}
+#ig_logo{
+	margin-top: 2em;
+}
+#left{
+	text-align: center;
+}
+#photo-left{
+	text-align: center;
+	padding-right: 2em;
+}
+#face{
+	display: block;
+	margin: auto;
+	width: 20%;
+}
+#catalog{
+	margin-left: 0;
+	padding-left: 0;
+	margin-right: 0;
+	padding-right: 0;	
+}
+
+.imgbox{
+	margin-left: 0;
+	padding-left: 0;
+}
+#photo-carousel{
+	margin-right: 0;
+	padding-right: 0;
+	margin-left: 0;
+	padding-left: 0;
+}
+.snow-gallery{
+	padding-bottom: 0.5em;
+	padding-right: 0;
+	margin-right: 0;
+	margin-left: 0;
+	padding-left: 0.5em;
+}
